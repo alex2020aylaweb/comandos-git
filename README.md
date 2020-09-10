@@ -179,7 +179,8 @@ Adrian Julian  11:21
 * git merge nueva-rama 'desde la rama master'
 * git push origin master 'subimos'
 * git remote 'ver los remotos que tenemos'
-
+* git push para publicar
+* git pull para actualizar
 
 
 
